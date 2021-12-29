@@ -1,0 +1,28 @@
+        #shape {
+		   
+		    width:200px;
+			height:200px;
+			background-color:red;
+			display:none;
+			position:relative;
+		   
+		}
+		   
+		.bold {
+		   
+		    font-weight:bold;
+		   
+		}
+		   
+		#text {
+		   
+		    width:700px;
+		    margin:0 auto;
+		   
+		}
+		
+		body {
+		   
+		    font-family: 'Roboto', sans-serif;
+		   
+		}
